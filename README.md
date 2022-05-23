@@ -1,4 +1,4 @@
-Food ordering app__
-REACT__
-Practice project__
-In development__
+Food ordering app <br />
+REACT <br />
+Practice project <br />
+In development <br />
